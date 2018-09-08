@@ -1,0 +1,29 @@
+.search-bar {
+  margin: 20px;
+  text-align: center;
+  background-color: #eee;
+}
+
+.search-bar input {
+  width: 75%;
+}
+
+.details {
+}
+
+#store-details {
+  position: fixed;
+  margin-top: 20px;
+  right: 60px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #ccc;
+}
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: #eee;
+}
